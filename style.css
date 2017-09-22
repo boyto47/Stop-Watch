@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+}
+.container {
+    padding-top: 100px;
+    text-align: center;
+}
+#timer {
+    margin-top: 100px;
+    color: white;
+}
+.myBtn {
+    width: 180px;
+    height: 50px;
+    margin-top: 100px;
+    border-radius: 6px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+}
+.title, .myBtn {
+    font-family: 'arial', cursive;
+    color: black;
+}
